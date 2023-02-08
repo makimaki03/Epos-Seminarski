@@ -1,0 +1,71 @@
+.container {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    }
+form {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  input[type="text"], input[type="number"] {
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  input[type="submit"] {
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type="submit"]:hover {
+    cursor: pointer;
+  }
+  .dd{
+    background-color: rgb(182, 44, 44);
+}
+.ad{
+    background-color: #4CAF50;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    }
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+    }
+th {
+    background-color: #f2f2f2;
+    }
+
+button{
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  background-color: rgb(2, 138, 230);
+  color: white;
+  }
+
+.greska{
+  color: red;
+  text-align: center;
+}
+
+.uspeh {
+  color: green;
+  text-align: center;
+}
